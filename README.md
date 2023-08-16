@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Felipe Renan</h1>
-- 🌱 I’m currently learning **Java, CSS and HTML**
+- 🌱 I’m currently learning *Java, CSS and HTML*
 
 - 📫 How to reach me **felipeferreira3146@gmail.com**
 
