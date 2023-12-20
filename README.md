@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Felipe Renan</h1>
-<h3 align="center">Information systems student, focused on backend.</h3>
+<h3 align="center">Information systems student, focused on data analysis</h3>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Pandas, Excel and Statistics**
 
 - 📫 How to reach me **felipeferreira3146@gmail.com**
 
