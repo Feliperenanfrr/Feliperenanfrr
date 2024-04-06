@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Felipe Renan</h1>
 <h3 align="center">Back-End developer</h3>
 
-- 🌱 I’m currently learning **Java and Spring Boot**
+- 🌱 I’m currently learning **C# and Asp.net core**
 
 - 📫 How to reach me **felipeferreira3146@gmail.com**
 
