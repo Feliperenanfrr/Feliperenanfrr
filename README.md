@@ -1,16 +1,53 @@
-<h1 align="center">Hi 👋, I'm Felipe Renan</h1>
-<h3 align="center">Back-End developer</h3>
+<h1 align="center">Olá 👋, Eu sou Felipe Renan</h1>
+<h3 align="center">Desenvolvedor Back-End</h3>
 
-- 🌱 I’m currently learning **C# and Asp.net core**
+- 🌱 Atualmente estou focado no desenvolvimento utilizando **C# e Asp.Net Core**
 
-- 📫 How to reach me **felipeferreira3146@gmail.com**
+- 📫 Como entrar em contato: **felipeferreira3146@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/felipe-renan-9a747a274" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felipe-renan-9a747a274" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/felipe-renan-9a747a274" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Felipe Renan" height="30" width="40" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<h3 align="left">Sobre mim:</h3>
+<p>
+Desenvolvedor Back-end, especializado em C#, com experiência em desenvolvimento de soluções web e desktop.
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=feliperenanfrr&show_icons=true&locale=en&layout=compact" alt="feliperenanfrr" /></p>
+Atuo profissionalmente como desenvolvedor Back-end, utilizando C# com ASP.NET Core e Blazor para aplicações web, e Windows Forms para desktop. Tenho sólidos conhecimentos em bibliotecas de front-end, como React, e experiência no desenvolvimento de APIs. Trabalho com bancos de dados relacionais (SQL) e não relacionais (MongoDB e Redis), além de já ter contato com Python e bibliotecas como pandas e matplotlib.
+
+Sou fluente em inglês, com espanhol intermediário, e tenho habilidade em falar em público, com experiência em palestras e participação em reuniões profissionais. Trabalho bem em equipe e estou sempre aberto a colaborar.
+</p>
+
+<h3 align="left">Habilidades Técnicas:</h3>
+<ul>
+  <li>.NET (Windows Forms, ASP.NET Core, Blazor)</li>
+  <li>C#</li>
+  <li>React</li>
+  <li>MongoDB</li>
+  <li>Redis</li>
+  <li>SQL</li>
+  <li>APIs RESTful</li>
+  <li>Python (pandas, matplotlib)</li>
+  <li>Git</li>
+</ul>
+
+<h3 align="left">Ferramentas:</h3>
+<ul>
+  <li>Visual Studio</li>
+  <li>Visual Studio Code</li>
+  <li>GitHub</li>
+</ul>
+
+<h3 align="left">Qualidades Pessoais:</h3>
+<ul>
+  <li>Fluente em inglês e espanhol intermediário</li>
+  <li>Habilidade em falar em público</li>
+  <li>Rápido aprendizado</li>
+  <li>Organizado</li>
+  <li>Bom em troubleshooting</li>
+</ul>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=feliperenanfrr&show_icons=true&locale=en&layout=compact" alt="Felipe Renan's GitHub Stats" /></p>
