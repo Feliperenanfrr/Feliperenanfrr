@@ -55,13 +55,5 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="GitHub" width="40" height="40"/> 
   </a>
 </p>
-
-<h3 align="left">Qualidades Pessoais:</h3>
-<ul>
-  <li>Fluente em inglês e espanhol intermediário</li>
-  <li>Habilidade em falar em público</li>
-  <li>Rápido aprendizado</li>
-  <li>Organizado</li>
-  <li>Bom em troubleshooting</li>
 </ul>
 
