@@ -23,6 +23,9 @@
   <a href="https://reactjs.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> 
   </a> 
+  <a href="https://restfulapi.net/" target="_blank"> 
+  <img src="https://img.icons8.com/ios-filled/50/000000/api.png" alt="APIs RESTful" width="40" height="40"/> 
+  </a>
   <a href="https://www.mongodb.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> 
   </a> 
@@ -62,4 +65,3 @@
   <li>Bom em troubleshooting</li>
 </ul>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=feliperenanfrr&show_icons=true&locale=en&layout=compact" alt="Felipe Renan's GitHub Stats" /></p>
