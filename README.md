@@ -12,15 +12,6 @@
   </a>
 </p>
 
-<h3 align="left">Sobre mim:</h3>
-<p>
-Desenvolvedor Back-end, especializado em C#, com experiência em desenvolvimento de soluções web e desktop.
-
-Atuo profissionalmente como desenvolvedor Back-end, utilizando C# com ASP.NET Core e Blazor para aplicações web, e Windows Forms para desktop. Tenho sólidos conhecimentos em bibliotecas de front-end, como React, e experiência no desenvolvimento de APIs. Trabalho com bancos de dados relacionais (SQL) e não relacionais (MongoDB e Redis), além de já ter contato com Python e bibliotecas como pandas e matplotlib.
-
-Sou fluente em inglês, com espanhol intermediário, e tenho habilidade em falar em público, com experiência em palestras e participação em reuniões profissionais. Trabalho bem em equipe e estou sempre aberto a colaborar.
-</p>
-
 <h3 align="left">Habilidades Técnicas:</h3>
 <p align="left"> 
   <a href="https://dotnet.microsoft.com/" target="_blank"> 
