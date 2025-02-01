@@ -2,7 +2,6 @@
 <h3 align="center">Cientista de Dados | Apaixonado por IA e Análise de Dados</h3>
 
 - 🌱 Atualmente estou focado em **aprender e aplicar técnicas avançadas de Machine Learning e Deep Learning**.
-- 👨‍💻 Meus projetos estão disponíveis no meu [GitHub](https://github.com/seu-usuario).
 - 📫 Como entrar em contato: **felipeferreira3146@gmail.com**
 - 💼 LinkedIn: [Felipe Renan](https://linkedin.com/in/felipe-renan-9a747a274)
 
@@ -23,12 +22,6 @@
   </a>
   <a href="https://scikit-learn.org/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
-  </a>
-  <a href="https://www.tensorflow.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original-wordmark.svg" alt="TensorFlow" width="40" height="40"/>
-  </a>
-  <a href="https://pytorch.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original-wordmark.svg" alt="PyTorch" width="40" height="40"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
@@ -51,8 +44,5 @@
   </a>
   <a href="https://jupyter.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter Notebook" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
   </a>
 </p>
