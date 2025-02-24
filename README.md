@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, Eu sou Felipe Renan</h1>
-<h3 align="center">Cientista de Dados | Apaixonado por IA e Análise de Dados</h3>
+<h3 align="center">Desenvolvedor Backend</h3>
 
-- 🌱 Atualmente estou focado em **aprender e aplicar técnicas avançadas de Machine Learning e Deep Learning**.
+- 🌱 Atualmente estou focado em **ASP.NET Core e Blazor**.
 - 📫 Como entrar em contato: **felipeferreira3146@gmail.com**
 - 💼 LinkedIn: [Felipe Renan](https://linkedin.com/in/felipe-renan-9a747a274)
 
