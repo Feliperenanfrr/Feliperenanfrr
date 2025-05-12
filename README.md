@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, Eu sou Felipe Renan</h1>
 <h3 align="center">Desenvolvedor Backend</h3>
 
-- 🌱 Atualmente estou focado em *ASP.NET Core e React*.
+- 🌱 Atualmente estou atuando com *ASP.NET Core e React*.
 - 📫 Como entrar em contato: *felipeferreira3146@gmail.com*
 - 💼 LinkedIn: [Felipe Renan](https://linkedin.com/in/felipe-renan-9a747a274)
 - 🏢 Trabalhando atualmente na *Gueppardo.net*
