@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Eu sou Felipe Renan</h1>
-<h3 align="center">Software Engineer | AI Engineer</h3>
+<h3 align="center">Software Engineer | AI Engineer | Backend Developer</h3>
 
 <p align="center">
   <em>20 anos, Campina Grande - PB</em>
@@ -23,7 +23,7 @@ Sou um desenvolvedor apaixonado por criar produtos de software e automações in
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
   <a href="https://n8n.io/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/n8n/n8n-original.svg" alt="n8n" width="40" height="40"/>
+    <img src="https://cdn.simpleicons.org/n8n/FF6584" alt="n8n" width="40" height="40"/>
   </a>
   <a href="https://pandas.pydata.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
@@ -39,6 +39,9 @@ Sou um desenvolvedor apaixonado por criar produtos de software e automações in
   </a>
   <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt=".NET Core" width="40" height="40"/>
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
   </a>
   <a href="https://supabase.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="Supabase" width="40" height="40"/>
