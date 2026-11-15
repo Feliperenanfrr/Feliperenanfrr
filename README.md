@@ -151,6 +151,17 @@ Também tenho experiência como **AI Engineer**, construindo **RAG, sistemas mul
 
 ## Formação & idiomas
 
-**Bacharelado em Sistemas de Informação** · UniFacisa · 2023–2027 · em andamento<br>
-**Técnico em Administração e Negócios** · ECIT Dr. Elpídio de Almeida · 2020–2022<br>
-**Idiomas** · Inglês avançado · Espanhol intermediário
+<table>
+  <tr>
+    <td width="22%" valign="top"><b>Graduação</b></td>
+    <td width="78%" valign="top"><b>Bacharelado em Sistemas de Informação</b> · UniFacisa Centro Universitário · 2023–2027 · 6º período, em andamento</td>
+  </tr>
+  <tr>
+    <td valign="top"><b>Técnico</b></td>
+    <td valign="top"><b>Administração e Negócios</b> · ECIT Dr. Elpídio de Almeida · 2020–2022</td>
+  </tr>
+  <tr>
+    <td valign="top"><b>Idiomas</b></td>
+    <td valign="top">Inglês avançado · Espanhol intermediário</td>
+  </tr>
+</table>
