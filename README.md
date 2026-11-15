@@ -154,7 +154,7 @@ Também tenho experiência como **AI Engineer**, construindo **RAG, sistemas mul
 <table>
   <tr>
     <td width="22%" valign="top"><b>Graduação</b></td>
-    <td width="78%" valign="top"><b>Bacharelado em Sistemas de Informação</b> · UniFacisa Centro Universitário · 2023–2027 · 6º período, em andamento</td>
+    <td width="78%" valign="top"><b>Bacharelado em Sistemas de Informação</b> · UniFacisa Centro Universitário · 2023–2027 · 7º período, em andamento</td>
   </tr>
   <tr>
     <td valign="top"><b>Técnico</b></td>
