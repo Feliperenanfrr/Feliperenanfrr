@@ -78,7 +78,7 @@ Também tenho experiência como **AI Engineer**, construindo **RAG, sistemas mul
     <td valign="top"><b>AI Engineering</b></td>
     <td valign="top">
       <code>Python</code> <code>LangGraph</code> <code>LangChain</code> <code>MCP</code> <code>n8n</code> <code>Qdrant</code> <code>Pinecone</code> <code>pgvector</code><br>
-      RAG · embeddings · busca semântica · agentes · tool calling · memória persistente
+      RAG · embeddings · busca semântica · sistemas multiagentes · tool calling · memória persistente · observabilidade e deploy de aplicações de IA
     </td>
   </tr>
   <tr>
